@@ -26,4 +26,4 @@ LZW压缩算法
 6. 返回步骤3重复，直至读完所有记号。
 
 转载自CSDN博客
-https://blog.csdn.net/hanzhen7541/article/details/91141112?tdsourcetag=s_pctim_aiomsg
+[LZW编解码详解](https://blog.csdn.net/hanzhen7541/article/details/91141112?tdsourcetag=s_pctim_aiomsg)
