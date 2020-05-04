@@ -1,6 +1,8 @@
 # LZW-Compression-Algo
 LZW压缩算法
+
 Lempel–Ziv–Welch (LZW) 是一种由 Abraham Lempel, Jacob Ziv 和 Terry Welch 发明的**无损压缩**算法。
+
 广泛用于 unix 文件压缩，以及 GIF 图片格式压缩。
 
 ## 编码步骤
